@@ -1,0 +1,6 @@
+{
+  "name": "Jeevansh — District Blood Donor Matching Platform",
+  "description": "Targeted blood donor matching by blood group, district, and donation interval with strict privacy enforcement until acceptance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
